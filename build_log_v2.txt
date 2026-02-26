@@ -1,0 +1,72 @@
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:mergeDebugNativeLibs NO-SOURCE
+> Task :app:stripDebugDebugSymbols NO-SOURCE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :app:kspDebugKotlin
+
+> Task :app:compileDebugKotlin
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/analytics/AnalyticsScreen.kt:354:21 Name shadowed: barColor
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/analytics/AnalyticsScreen.kt:371:21 Variable 'chartPath' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/analytics/AnalyticsScreen.kt:709:49 Parameter 'index' is never used, could be renamed to _
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/analytics/AnalyticsViewModel.kt:236:28 Destructured parameter 'date' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/exercises/ExercisesScreen.kt:48:9 Variable 'haptics' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/vitamins/AddVitaminSheet.kt:38:5 Parameter 'accentColor' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/WorkoutsScreen.kt:71:9 Variable 'showAddSheet' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/WorkoutsScreen.kt:194:41 Variable 'summary' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/WorkoutsScreen.kt:198:41 Variable 'totalWeight' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/WorkoutsScreen.kt:319:5 Parameter 'onDelete' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutScreen.kt:81:75 'with(ExitTransition): ContentTransform' is deprecated. Infix fun EnterTransition.with(ExitTransition) has been renamed to togetherWith
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutScreen.kt:84:76 'with(ExitTransition): ContentTransform' is deprecated. Infix fun EnterTransition.with(ExitTransition) has been renamed to togetherWith
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutScreen.kt:199:5 Parameter 'workoutName' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutScreen.kt:203:9 Variable 'currentExercise' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutScreen.kt:272:76 'with(ExitTransition): ContentTransform' is deprecated. Infix fun EnterTransition.with(ExitTransition) has been renamed to togetherWith
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutScreen.kt:276:77 'with(ExitTransition): ContentTransform' is deprecated. Infix fun EnterTransition.with(ExitTransition) has been renamed to togetherWith
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutScreen.kt:353:5 Parameter 'index' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutViewModel.kt:231:65 Parameter 'sets' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutViewModel.kt:231:76 Parameter 'reps' is never used
+w: file:///C:/Users/killmilk/Desktop/1313/LifeLift/app/src/main/java/com/lifelift/app/features/workouts/create/CreateWorkoutViewModel.kt:231:87 Parameter 'weight' is never used
+
+> Task :app:compileDebugJavaWithJavac
+> Task :app:hiltAggregateDepsDebug FROM-CACHE
+> Task :app:hiltJavaCompileDebug
+> Task :app:processDebugJavaRes
+> Task :app:mergeDebugJavaResource
+> Task :app:transformDebugClassesWithAsm
+> Task :app:dexBuilderDebug
+> Task :app:mergeDebugGlobalSynthetics FROM-CACHE
+> Task :app:mergeProjectDexDebug
+> Task :app:packageDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :app:assembleDebug
+
+BUILD SUCCESSFUL in 20s
+39 actionable tasks: 12 executed, 2 from cache, 25 up-to-date

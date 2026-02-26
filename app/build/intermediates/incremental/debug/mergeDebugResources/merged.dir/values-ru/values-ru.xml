@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="action_undo">Отменить</string>
+    <string name="activity_cycle">Велосипед</string>
+    <string name="activity_hiit">HIIT</string>
+    <string name="activity_run">Бег</string>
+    <string name="activity_swim">Плаванье</string>
+    <string name="activity_walk">Ходьба</string>
+    <string name="analytics_subtitle">Твоя статистика</string>
+    <string name="analytics_title">Аналитика</string>
+    <string name="app_name">LifeLift</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_add_exercise">Добавить</string>
+    <string name="btn_add_first_vitamin">Добавить первый витамин</string>
+    <string name="btn_add_first_workout">Первая тренировка</string>
+    <string name="btn_add_set">Добавить подход</string>
+    <string name="btn_add_vitamin">Добавить</string>
+    <string name="btn_add_workout">Добавить</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_create_new_exercise">Создать упражнение</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_log_cardio">Записать</string>
+    <string name="btn_ok">ОК</string>
+    <string name="btn_remove">Удалить</string>
+    <string name="btn_save">Сохранить</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="card_progress_title">Прогресс сегодня</string>
+    <string name="card_total_volume">Общий объем</string>
+    <string name="card_total_workouts">Всего тренировок</string>
+    <string name="card_volume">Объем</string>
+    <string name="card_workouts">Тренировки</string>
+    <string name="cardio_subtitle">Аэробные нагрузки</string>
+    <string name="cardio_title">Кардио</string>
+    <string msgid="406453423630273620" name="close_drawer">"Закрыть меню навигации"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Закрыть лист"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Неправильный ввод"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Всплывающее окно"</string>
+    <string name="desc_back">Назад</string>
+    <string name="desc_delete">Удалить</string>
+    <string name="desc_navigate">Перейти</string>
+    <string name="desc_refresh">Обновить</string>
+    <string name="desc_settings">Настройки</string>
+    <string name="desc_taken">Принято</string>
+    <string name="dialog_add_exercise_title">Добавить упражнение</string>
+    <string name="dialog_add_vitamin_title">Добавить витамин</string>
+    <string name="dialog_delete_exercise_message">Вы уверены, что хотите удалить \'%1$s\'?</string>
+    <string name="dialog_delete_exercise_title">Удалить упражнение?</string>
+    <string name="dialog_delete_workout_message">Вы уверены, что хотите удалить \'%1$s\'?</string>
+    <string name="dialog_delete_workout_title">Удалить тренировку?</string>
+    <string name="dialog_new_exercise_title">Новое упражнение</string>
+    <string name="dialog_new_workout_title">Новая тренировка</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Раскрывающееся меню"</string>
+    <string name="empty_vitamins_subtitle">Добавь свои добавки</string>
+    <string name="empty_vitamins_title">Нет витаминов</string>
+    <string name="empty_workouts_subtitle">Начни отслеживать свой прогресс</string>
+    <string name="empty_workouts_title">Нет тренировок</string>
+    <string name="feature_analytics_subtitle">Твой прогресс</string>
+    <string name="feature_analytics_title">Аналитика</string>
+    <string name="feature_cardio_subtitle">Бег, Вело, Плаванье</string>
+    <string name="feature_cardio_title">Кардио</string>
+    <string name="feature_vitamins_subtitle">Трекер добавок</string>
+    <string name="feature_vitamins_title">Витамины</string>
+    <string name="feature_workouts_subtitle">Тренировки с весом</string>
+    <string name="feature_workouts_title">Силовые</string>
+    <string name="home_subtitle">Твой фитнес-компаньон</string>
+    <string msgid="6827826412747255547" name="in_progress">"Выполняется"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Отмечено частично"</string>
+    <string name="label_activity_type">Вид активности</string>
+    <string name="label_all">Все</string>
+    <string name="label_app_language">Язык приложения</string>
+    <string name="label_body_weight">Вес тела (кг)</string>
+    <string name="label_calories">Калории</string>
+    <string name="label_calories_burned">Сожжено ккал</string>
+    <string name="label_category">Категория</string>
+    <string name="label_default_reps">Повторы</string>
+    <string name="label_default_sets">Подходы</string>
+    <string name="label_default_weight">Вес</string>
+    <string name="label_developer">Разработчик</string>
+    <string name="label_dosage">Дозировка</string>
+    <string name="label_duration">Вреря (мин)</string>
+    <string name="label_duration_minutes">Время (мин)</string>
+    <string name="label_exercise">Упражнение</string>
+    <string name="label_exercise_name">Название упражнения</string>
+    <string name="label_exercises_list">Упражнения</string>
+    <string name="label_history">История</string>
+    <string name="label_month">Месяц</string>
+    <string name="label_new_session">Запись</string>
+    <string name="label_notes">Заметки (необязательно)</string>
+    <string name="label_reps">Повторы</string>
+    <string name="label_select_exercise">Выберите упражнение</string>
+    <string name="label_sets">Подходы</string>
+    <string name="label_strength_progress">Силовой прогресс</string>
+    <string name="label_theme">Тема</string>
+    <string name="label_time">Время (24ч)</string>
+    <string name="label_time_picker">Время</string>
+    <string name="label_total_volume">Общий объем</string>
+    <string name="label_version">Версия</string>
+    <string name="label_vitamin_name">Название</string>
+    <string name="label_week">Неделя</string>
+    <string name="label_weekly_rate">За неделю</string>
+    <string name="label_weight">кг</string>
+    <string name="label_workout_name">Название</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Свернуть нижний экран"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Закрыть нижний экран"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Маркер перемещения"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Развернуть нижний экран"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Нижний экран"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Введенная дата"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Введенная дата: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Дата не соответствует допустимому шаблону: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Недопустимая дата: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Дата не входит в допустимый диапазон: %1$s–%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Дата"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Нет"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Выберите дату"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Выбранная дата"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Текущий выбор: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Переход к %1$s году"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Нет"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Прокрутите до более ранних лет"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Прокрутите до более поздних лет"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Перейти в режим выбора даты"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Проведите по экрану, чтобы выбрать год, или нажмите, чтобы вернуться к выбору дня."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Перейти в режим ввода текста"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Перейти к следующему месяцу"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Перейти к предыдущему месяцу"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Перейти к выбору года"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Выберите дату"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Сегодня"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Отображаемый выбор года"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Указан недопустимый диапазон дат."</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Введите даты"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"День в диапазоне дат"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Конечная дата"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Прокрутите до следующего месяца"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Прокрутите до предыдущего месяца"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Начальная дата"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Выберите даты"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Диалоговое окно"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Свернуто"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Развернуто"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Строка поиска"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Закрыть"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Подсказки показаны ниже"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Часы"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d ч."</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Выбрать час"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d ч."</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"часы"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Минуты"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Выберите минуты"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d мин."</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"минуты"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Выбрать AM (до полудня) или PM (после полудня)"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Показать подсказку"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Подсказка"</string>
+    <string name="msg_all_supplements_taken">✨ Все добавки приняты!</string>
+    <string name="msg_cardio_logged">Кардио записано!</string>
+    <string name="msg_compliance_excellent">Отлично! Так держать! 🌟</string>
+    <string name="msg_compliance_good">Хороший прогресс! 💪</string>
+    <string name="msg_compliance_low">Давай выработаем привычку! 🎯</string>
+    <string name="msg_compliance_ok">Есть куда расти 📈</string>
+    <string name="msg_exercise_created">Упражнение создано</string>
+    <string name="msg_no_data_available">Нет данных</string>
+    <string name="msg_no_data_monthly">Нет месячных данных.</string>
+    <string name="msg_no_data_weekly">Нет недельных данных.</string>
+    <string name="msg_no_exercises_found">Упражнения не найдены</string>
+    <string name="msg_notification_text">Дозировка: %1$s</string>
+    <string name="msg_notification_title">Пора принять %1$s</string>
+    <string name="msg_tap_to_add_exercise">Нажмите, чтобы добавить</string>
+    <string name="msg_workout_deleted">Тренировка удалена</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Меню навигации"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Не выбрано"</string>
+    <string msgid="875452955155264703" name="off">"Отключено"</string>
+    <string msgid="8655164131929253426" name="on">"Включено"</string>
+    <string name="placeholder_category">Например: Ноги</string>
+    <string name="placeholder_choose_exercise">Выбрать...</string>
+    <string name="placeholder_dosage">Например: 1000 МЕ</string>
+    <string name="placeholder_exercise">Например: Жим лежа</string>
+    <string name="placeholder_exercise_name">Например: Приседания</string>
+    <string name="placeholder_vitamin_name">Например: Витамин D3</string>
+    <string name="placeholder_workout_name">Например: День груди</string>
+    <string msgid="5941395253238309765" name="range_end">"Конец диапазона"</string>
+    <string msgid="7097486360902471446" name="range_start">"Начало диапазона"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="section_about">О приложении</string>
+    <string name="section_all_time">За все время</string>
+    <string name="section_appearance">Внешний вид</string>
+    <string name="section_language">Язык</string>
+    <string name="section_recent_workouts">Недавние тренировки</string>
+    <string name="section_this_week">Эта неделя</string>
+    <string name="section_vitamin_compliance">Прием витаминов</string>
+    <string msgid="6043586758067023" name="selected">"Выбрано"</string>
+    <string name="settings_subtitle">Персонализация</string>
+    <string name="settings_title">Настройки</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="subtitle_monthly_volume">Общий тоннаж (кг) по месяцам</string>
+    <string name="subtitle_weekly_volume">Общий тоннаж (кг) по неделям</string>
+    <string msgid="2561197295334830845" name="switch_role">"Переключатель"</string>
+    <string msgid="1672349317127674378" name="tab">"Вкладка"</string>
+    <string name="tab_exercises">Упражнения</string>
+    <string name="tab_progress">Прогресс</string>
+    <string name="tab_summary">Сводка</string>
+    <string name="tab_workouts">Тренировки</string>
+    <string msgid="5946805113151406391" name="template_percent">"Процентов: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="theme_amoled">AMOLED Черный</string>
+    <string name="theme_dark">Темная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_system">Системная</string>
+    <string name="title_edit_exercise">Редактировать упражнение</string>
+    <string name="title_edit_session">Изменить сессию</string>
+    <string name="title_global_progress">Общий Прогресс</string>
+    <string name="title_monthly_volume">Объем за месяц</string>
+    <string name="title_new_exercise">Новое упражнение</string>
+    <string name="title_weekly_volume">Объем за неделю</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"Подсказка"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"Показать подсказку"</string>
+    <string name="vitamins_subtitle">Ежедневные добавки</string>
+    <string name="vitamins_title">Тонус</string>
+    <string name="wizard_btn_add_set">Добавить подход</string>
+    <string name="wizard_btn_finish">Завершить</string>
+    <string name="wizard_btn_next_exercise">След. упражнение</string>
+    <string name="wizard_btn_prev">Назад</string>
+    <string name="wizard_btn_start">Начать</string>
+    <string name="wizard_col_kg">КГ</string>
+    <string name="wizard_col_num">№</string>
+    <string name="wizard_col_reps">Повторы</string>
+    <string name="wizard_create_new_exercise">+ Создать новое</string>
+    <string name="wizard_desc_delete_set">Удалить подход</string>
+    <string name="wizard_exercise_counter">Упражнение %1$d из %2$d</string>
+    <string name="wizard_header_sets">Подходы</string>
+    <string name="wizard_select_exercise">Выберите упражнение</string>
+    <string name="wizard_step_setup">Настройка</string>
+    <string name="workouts_subtitle">Трекер весов</string>
+    <string name="workouts_title">Силовые</string>
+</resources>

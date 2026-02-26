@@ -1,0 +1,1 @@
+{"className":"com.lifelift.app.core.notification.Hilt_VitaminNotificationReceiver","classAnnotations":["dagger.hilt.android.internal.OnReceiveBytecodeInjectionMarker"],"interfaces":[],"superClasses":["android.content.BroadcastReceiver","java.lang.Object"]}

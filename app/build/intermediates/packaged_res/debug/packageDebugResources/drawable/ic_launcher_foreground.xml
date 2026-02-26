@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Upward Arrow with Heart - representing growth and health -->
+    
+    <!-- Main upward arrow body -->
+    <path
+        android:pathData="M54,25 L38,45 L46,45 L46,65 L62,65 L62,45 L70,45 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient 
+                android:startY="25"
+                android:endY="65"
+                android:startX="54"
+                android:endX="54"
+                android:type="linear">
+                <item android:offset="0" android:color="#FF00E5FF"/>
+                <item android:offset="1" android:color="#FF6C63FF"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    
+    <!-- Heart shape on the right side -->
+    <path
+        android:pathData="M72,48 C72,42 78,38 84,42 C90,46 84,54 78,60 C72,54 66,46 72,42 C76,38 72,42 72,48 Z
+                          M78,42 C78,38 84,36 88,40 C92,44 88,52 78,60 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient 
+                android:startY="38"
+                android:endY="60"
+                android:startX="78"
+                android:endX="78"
+                android:type="linear">
+                <item android:offset="0" android:color="#FF6C63FF"/>
+                <item android:offset="1" android:color="#FFFF4081"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    
+    <!-- Glow effect ring -->
+    <path
+        android:pathData="M54,70 L54,83"
+        android:strokeWidth="4"
+        android:strokeColor="#4000E5FF"
+        android:strokeLineCap="round"/>
+    
+    <path
+        android:pathData="M46,78 L62,78"
+        android:strokeWidth="2"
+        android:strokeColor="#2000E5FF"
+        android:strokeLineCap="round"/>
+
+</vector>

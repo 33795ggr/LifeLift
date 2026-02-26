@@ -1,0 +1,45 @@
+package com.lifelift.app.features.settings;
+
+import com.lifelift.app.core.data.preferences.UserPreferencesManager;
+import dagger.internal.DaggerGenerated;
+import dagger.internal.Factory;
+import dagger.internal.QualifierMetadata;
+import dagger.internal.ScopeMetadata;
+import javax.annotation.processing.Generated;
+import javax.inject.Provider;
+
+@ScopeMetadata
+@QualifierMetadata
+@DaggerGenerated
+@Generated(
+    value = "dagger.internal.codegen.ComponentProcessor",
+    comments = "https://dagger.dev"
+)
+@SuppressWarnings({
+    "unchecked",
+    "rawtypes",
+    "KotlinInternal",
+    "KotlinInternalInJava",
+    "cast"
+})
+public final class SettingsViewModel_Factory implements Factory<SettingsViewModel> {
+  private final Provider<UserPreferencesManager> preferencesManagerProvider;
+
+  public SettingsViewModel_Factory(Provider<UserPreferencesManager> preferencesManagerProvider) {
+    this.preferencesManagerProvider = preferencesManagerProvider;
+  }
+
+  @Override
+  public SettingsViewModel get() {
+    return newInstance(preferencesManagerProvider.get());
+  }
+
+  public static SettingsViewModel_Factory create(
+      Provider<UserPreferencesManager> preferencesManagerProvider) {
+    return new SettingsViewModel_Factory(preferencesManagerProvider);
+  }
+
+  public static SettingsViewModel newInstance(UserPreferencesManager preferencesManager) {
+    return new SettingsViewModel(preferencesManager);
+  }
+}

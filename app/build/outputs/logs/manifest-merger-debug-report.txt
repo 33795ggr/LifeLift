@@ -1,0 +1,691 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8caef2be831a986995ae8a105db7b544\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\323993f4a8e200fbd9a2a3b31a6572f1\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\d80dbc33ef0c69e3e2eb887b5fb71263\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\bb3c6628e3511eecbc101b29e5b6cdc4\transformed\hilt-work-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\86f83089ea93bb27450847e5546f0ef4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\892e9067cacdf77450ffe05b321ddcfe\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\6db7991863f9239174159e68b4961ad7\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\b8cd334836a80a5a8d09cd3ae33ffb7c\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\df9355a8e3493028885614bab3ccf5d9\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\5067af88b1bc62b79b3a40cfa0a27de6\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\f52aca70a4ba9fbdca7f7044d1ece51d\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\3028d255287a4468bbb124445aab4034\transformed\navigation-compose-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\773c4669cf191a9df36e792ac9b03e8c\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8d882f981c85976975942ea660bfff9b\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\6e88643755ebd0561e4430226a1b659f\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\26ef07d93626ec1f6f8a6c4a62d736b4\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\7f1c17bc6d55ec490c12d10506dc3772\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\22364946720366a2956e43cf4c6a3ee0\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8dd206160a0ed61cf6e41baf1eb1a711\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\fc2cccdf4f3484e4d474b2198f2619ba\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\df2e81187511ecdd6c6c00785e9eace5\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\7bcbe1ffb25d19c10be08dcab2962777\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\dfe633839696dcb300be6ac4ddaffc0a\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\1ef335d447e77cbbc5b0288ab43647c3\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\67e3950b5d0de940d37d65b0b1bad943\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\4bc95d81f25335b22aae16a213398534\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\f65646a9225c32d9b52f2616600e44d4\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\962c1a5a297c25ae76e42be8977e0950\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\9628071bd4572749880449de80d93b98\transformed\ui-test-manifest-1.6.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.dagger:hilt-android:2.51] C:\Users\killmilk\.gradle\caches\transforms-4\3cb3abc26873eea836dd20a0e85e6121\transformed\hilt-android-2.51\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\killmilk\.gradle\caches\transforms-4\cf952b37988ef7bcce42c9249bc39ed5\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\60145a57a1365b94e979fd17ce400e16\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\dc1f2f87fbc6b231968f967f0a1b15be\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\7c6d4881e3e10bc4be54e1a63ad81d56\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\killmilk\.gradle\caches\transforms-4\e413babe27037fd5426b090df9557649\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\killmilk\.gradle\caches\transforms-4\8c74d5ed41a6fd307c3e9bde501033b0\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\9112e133dd38201c9ce53a1b8b73d08a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\8b70a1b90bffb4d896c3abb92a6767ee\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\1c38ee9b3220f9ee98d0daf0be836494\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\3282b44534a8668e4586a073a7cc5b09\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\5c45a3c6bcf21130324d94fd3e1d42c6\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\399a8669c818d748b354edbdec9049e8\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\899aacda03fe4ebfa3d36d6e9dc286b6\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\4bd5fb580359f1451e6ea7893580dd77\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\b3c8f91663bec5a096e30e3dacafcfa9\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\435d9034eef4ef237ed5684337c9a7ba\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\407723cc0e42977127700decfd49d295\transformed\lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\d2e94b436958ed5b28af143e2f3992b1\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\cd842c0c1e4549772f477ec954f9a701\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\c5885eb436836a7f03b12910a9195dee\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\6e114f66ad9a2dee0e09b66443ea5c10\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\killmilk\.gradle\caches\transforms-4\4e7237a5ff4f0f6b4abf4e49bb58c4ba\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\killmilk\.gradle\caches\transforms-4\1bd93d67bb17b5a6c8147afa0e9ef1bc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\4e4062a59d0e60a71917a81c79b29fb6\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\9f5353a8e0d0f0cd7c56144e6854a803\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\5fca9008a816958aaee184ff4ede1568\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\de646666b8518469730eba233c1b33b7\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\e29b33adf3a1f95273ad527b243eb195\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\23cb3429af03926209138e606fcb6a4d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\03440e1b0b15f7154603818ebbbb8bfb\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\594df79b9d0b75603b2e8e76e84d8a88\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\21126cd438288a759b4c0bb41ee3c713\transformed\datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\fc6c3212abf715a8264282a5c93924e3\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\381c11eeb8946b19bd3d6d070e8cbde3\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\5f06c4d94781f8c45fa074a3c8486f7b\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\b708728df0639c56b782c34f92cdfc42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\e790446877fd5d7e4315d35bfa32c26d\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\881e69ef87ed4fbf986ee283b5f9d799\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\04ac56e19fe940dae747eb9b5fb3efcd\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\5ced0a196085026f2766db8d845944a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\a9bfa261255d9735b4e4e990b0d15930\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51] C:\Users\killmilk\.gradle\caches\transforms-4\91cfd3807e87698fd7411bd6f94a91af\transformed\dagger-lint-aar-2.51\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:4:5-77
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:4:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:5-81
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:8:22-63
+application
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:10:5-41:19
+INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:10:5-41:19
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\f65646a9225c32d9b52f2616600e44d4\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\f65646a9225c32d9b52f2616600e44d4\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\9628071bd4572749880449de80d93b98\transformed\ui-test-manifest-1.6.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\9628071bd4572749880449de80d93b98\transformed\ui-test-manifest-1.6.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\b708728df0639c56b782c34f92cdfc42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\b708728df0639c56b782c34f92cdfc42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\5ced0a196085026f2766db8d845944a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\5ced0a196085026f2766db8d845944a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:14:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:17:9-43
+	android:roundIcon
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:18:9-46
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:11:9-44
+activity#com.lifelift.app.MainActivity
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:exported
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:22:13-50
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:25:27-74
+receiver#com.lifelift.app.core.notification.VitaminNotificationReceiver
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:28:9-31:40
+	android:enabled
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:29:13-74
+receiver#com.lifelift.app.core.notification.BootReceiver
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:enabled
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:34:13-59
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:37:13-39:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:38:17-79
+	android:name
+		ADDED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml:38:25-76
+uses-sdk
+INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8caef2be831a986995ae8a105db7b544\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8caef2be831a986995ae8a105db7b544\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\323993f4a8e200fbd9a2a3b31a6572f1\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\323993f4a8e200fbd9a2a3b31a6572f1\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\d80dbc33ef0c69e3e2eb887b5fb71263\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\d80dbc33ef0c69e3e2eb887b5fb71263\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\bb3c6628e3511eecbc101b29e5b6cdc4\transformed\hilt-work-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\bb3c6628e3511eecbc101b29e5b6cdc4\transformed\hilt-work-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\86f83089ea93bb27450847e5546f0ef4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\86f83089ea93bb27450847e5546f0ef4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\892e9067cacdf77450ffe05b321ddcfe\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\892e9067cacdf77450ffe05b321ddcfe\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\6db7991863f9239174159e68b4961ad7\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\6db7991863f9239174159e68b4961ad7\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\b8cd334836a80a5a8d09cd3ae33ffb7c\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\b8cd334836a80a5a8d09cd3ae33ffb7c\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\df9355a8e3493028885614bab3ccf5d9\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\df9355a8e3493028885614bab3ccf5d9\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\5067af88b1bc62b79b3a40cfa0a27de6\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\5067af88b1bc62b79b3a40cfa0a27de6\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\f52aca70a4ba9fbdca7f7044d1ece51d\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\f52aca70a4ba9fbdca7f7044d1ece51d\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\3028d255287a4468bbb124445aab4034\transformed\navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\killmilk\.gradle\caches\transforms-4\3028d255287a4468bbb124445aab4034\transformed\navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\773c4669cf191a9df36e792ac9b03e8c\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\773c4669cf191a9df36e792ac9b03e8c\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8d882f981c85976975942ea660bfff9b\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8d882f981c85976975942ea660bfff9b\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\6e88643755ebd0561e4430226a1b659f\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\6e88643755ebd0561e4430226a1b659f\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\26ef07d93626ec1f6f8a6c4a62d736b4\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\26ef07d93626ec1f6f8a6c4a62d736b4\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\7f1c17bc6d55ec490c12d10506dc3772\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\7f1c17bc6d55ec490c12d10506dc3772\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\22364946720366a2956e43cf4c6a3ee0\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\22364946720366a2956e43cf4c6a3ee0\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8dd206160a0ed61cf6e41baf1eb1a711\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\8dd206160a0ed61cf6e41baf1eb1a711\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\fc2cccdf4f3484e4d474b2198f2619ba\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\fc2cccdf4f3484e4d474b2198f2619ba\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\df2e81187511ecdd6c6c00785e9eace5\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\df2e81187511ecdd6c6c00785e9eace5\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\7bcbe1ffb25d19c10be08dcab2962777\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\7bcbe1ffb25d19c10be08dcab2962777\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\dfe633839696dcb300be6ac4ddaffc0a\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\dfe633839696dcb300be6ac4ddaffc0a\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\1ef335d447e77cbbc5b0288ab43647c3\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\1ef335d447e77cbbc5b0288ab43647c3\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\67e3950b5d0de940d37d65b0b1bad943\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\67e3950b5d0de940d37d65b0b1bad943\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\4bc95d81f25335b22aae16a213398534\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\4bc95d81f25335b22aae16a213398534\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\f65646a9225c32d9b52f2616600e44d4\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\f65646a9225c32d9b52f2616600e44d4\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\962c1a5a297c25ae76e42be8977e0950\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\962c1a5a297c25ae76e42be8977e0950\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\9628071bd4572749880449de80d93b98\transformed\ui-test-manifest-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\9628071bd4572749880449de80d93b98\transformed\ui-test-manifest-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.51] C:\Users\killmilk\.gradle\caches\transforms-4\3cb3abc26873eea836dd20a0e85e6121\transformed\hilt-android-2.51\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51] C:\Users\killmilk\.gradle\caches\transforms-4\3cb3abc26873eea836dd20a0e85e6121\transformed\hilt-android-2.51\AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\killmilk\.gradle\caches\transforms-4\cf952b37988ef7bcce42c9249bc39ed5\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\killmilk\.gradle\caches\transforms-4\cf952b37988ef7bcce42c9249bc39ed5\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\60145a57a1365b94e979fd17ce400e16\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\60145a57a1365b94e979fd17ce400e16\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\dc1f2f87fbc6b231968f967f0a1b15be\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\dc1f2f87fbc6b231968f967f0a1b15be\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\7c6d4881e3e10bc4be54e1a63ad81d56\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\killmilk\.gradle\caches\transforms-4\7c6d4881e3e10bc4be54e1a63ad81d56\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\killmilk\.gradle\caches\transforms-4\e413babe27037fd5426b090df9557649\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\killmilk\.gradle\caches\transforms-4\e413babe27037fd5426b090df9557649\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\killmilk\.gradle\caches\transforms-4\8c74d5ed41a6fd307c3e9bde501033b0\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\killmilk\.gradle\caches\transforms-4\8c74d5ed41a6fd307c3e9bde501033b0\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\9112e133dd38201c9ce53a1b8b73d08a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\9112e133dd38201c9ce53a1b8b73d08a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\8b70a1b90bffb4d896c3abb92a6767ee\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\8b70a1b90bffb4d896c3abb92a6767ee\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\1c38ee9b3220f9ee98d0daf0be836494\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\1c38ee9b3220f9ee98d0daf0be836494\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\3282b44534a8668e4586a073a7cc5b09\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\3282b44534a8668e4586a073a7cc5b09\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\5c45a3c6bcf21130324d94fd3e1d42c6\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\5c45a3c6bcf21130324d94fd3e1d42c6\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\399a8669c818d748b354edbdec9049e8\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\399a8669c818d748b354edbdec9049e8\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\899aacda03fe4ebfa3d36d6e9dc286b6\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\899aacda03fe4ebfa3d36d6e9dc286b6\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\4bd5fb580359f1451e6ea7893580dd77\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\4bd5fb580359f1451e6ea7893580dd77\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\b3c8f91663bec5a096e30e3dacafcfa9\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\b3c8f91663bec5a096e30e3dacafcfa9\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\435d9034eef4ef237ed5684337c9a7ba\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\435d9034eef4ef237ed5684337c9a7ba\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\407723cc0e42977127700decfd49d295\transformed\lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\407723cc0e42977127700decfd49d295\transformed\lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\d2e94b436958ed5b28af143e2f3992b1\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\d2e94b436958ed5b28af143e2f3992b1\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\cd842c0c1e4549772f477ec954f9a701\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\cd842c0c1e4549772f477ec954f9a701\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\c5885eb436836a7f03b12910a9195dee\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\c5885eb436836a7f03b12910a9195dee\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\6e114f66ad9a2dee0e09b66443ea5c10\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\6e114f66ad9a2dee0e09b66443ea5c10\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\killmilk\.gradle\caches\transforms-4\4e7237a5ff4f0f6b4abf4e49bb58c4ba\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\killmilk\.gradle\caches\transforms-4\4e7237a5ff4f0f6b4abf4e49bb58c4ba\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\killmilk\.gradle\caches\transforms-4\1bd93d67bb17b5a6c8147afa0e9ef1bc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\killmilk\.gradle\caches\transforms-4\1bd93d67bb17b5a6c8147afa0e9ef1bc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\4e4062a59d0e60a71917a81c79b29fb6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\4e4062a59d0e60a71917a81c79b29fb6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\9f5353a8e0d0f0cd7c56144e6854a803\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\9f5353a8e0d0f0cd7c56144e6854a803\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\5fca9008a816958aaee184ff4ede1568\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\5fca9008a816958aaee184ff4ede1568\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\de646666b8518469730eba233c1b33b7\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\de646666b8518469730eba233c1b33b7\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\e29b33adf3a1f95273ad527b243eb195\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\e29b33adf3a1f95273ad527b243eb195\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\23cb3429af03926209138e606fcb6a4d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\23cb3429af03926209138e606fcb6a4d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\03440e1b0b15f7154603818ebbbb8bfb\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\03440e1b0b15f7154603818ebbbb8bfb\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\594df79b9d0b75603b2e8e76e84d8a88\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\594df79b9d0b75603b2e8e76e84d8a88\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\21126cd438288a759b4c0bb41ee3c713\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\21126cd438288a759b4c0bb41ee3c713\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\fc6c3212abf715a8264282a5c93924e3\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\fc6c3212abf715a8264282a5c93924e3\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\381c11eeb8946b19bd3d6d070e8cbde3\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\381c11eeb8946b19bd3d6d070e8cbde3\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\5f06c4d94781f8c45fa074a3c8486f7b\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\killmilk\.gradle\caches\transforms-4\5f06c4d94781f8c45fa074a3c8486f7b\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\b708728df0639c56b782c34f92cdfc42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\b708728df0639c56b782c34f92cdfc42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\e790446877fd5d7e4315d35bfa32c26d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\killmilk\.gradle\caches\transforms-4\e790446877fd5d7e4315d35bfa32c26d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\881e69ef87ed4fbf986ee283b5f9d799\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\881e69ef87ed4fbf986ee283b5f9d799\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\04ac56e19fe940dae747eb9b5fb3efcd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\04ac56e19fe940dae747eb9b5fb3efcd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\5ced0a196085026f2766db8d845944a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\5ced0a196085026f2766db8d845944a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\a9bfa261255d9735b4e4e990b0d15930\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\killmilk\.gradle\caches\transforms-4\a9bfa261255d9735b4e4e990b0d15930\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.51] C:\Users\killmilk\.gradle\caches\transforms-4\91cfd3807e87698fd7411bd6f94a91af\transformed\dagger-lint-aar-2.51\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51] C:\Users\killmilk\.gradle\caches\transforms-4\91cfd3807e87698fd7411bd6f94a91af\transformed\dagger-lint-aar-2.51\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\killmilk\Desktop\1313\LifeLift\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\5ced0a196085026f2766db8d845944a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\killmilk\.gradle\caches\transforms-4\5ced0a196085026f2766db8d845944a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:33:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:30:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:35:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\killmilk\.gradle\caches\transforms-4\e3913bbe0bedffda7aee6bc61269421c\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:25-85
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\f65646a9225c32d9b52f2616600e44d4\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\f65646a9225c32d9b52f2616600e44d4\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\f65646a9225c32d9b52f2616600e44d4\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\9628071bd4572749880449de80d93b98\transformed\ui-test-manifest-1.6.1\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\9628071bd4572749880449de80d93b98\transformed\ui-test-manifest-1.6.1\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\9628071bd4572749880449de80d93b98\transformed\ui-test-manifest-1.6.1\AndroidManifest.xml:24:13-63
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\30848b49525f82aeca570570a2cc7afb\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\killmilk\.gradle\caches\transforms-4\fa2246732af4cdc2d579ab664b3afaa3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.lifelift.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.lifelift.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\killmilk\.gradle\caches\transforms-4\35f5c20a059e77ee91183399a50616d3\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\killmilk\.gradle\caches\transforms-4\2faa80f300cccc2e2c0d8186d84d6efa\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\killmilk\.gradle\caches\transforms-4\bdacbaf27d239fc36d218ce8fc52c009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
